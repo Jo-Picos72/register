@@ -1,0 +1,10 @@
+{
+  "description": "URL shortener",
+  "repo": "https://github.com/Jo-Picos72/url-shortener",
+  "owner": {
+    "username": "Jo-Picos72"
+  },
+  "record": {
+    "CNAME": "https://smallurl.up.railway.app/"
+  }
+}
